@@ -20,9 +20,6 @@ int yel = 12;
 int red = 13;
 
 // REPLACE WITH RECEIVER MAC Address
-//                             CC:50:E3:0C:73:88
-//                             0xDF, 0xDB, 0x84, 0xE0, 0xCD, 0x07
-//E8:DB:84:E0:CD:73    CC:50:E3:0C:74:0E
 
 uint8_t broadcastAddress1[] = {0xE8, 0xDB, 0x84, 0xE0, 0xCD, 0x73}; //matinho
 uint8_t broadcastAddress2[] = {0xCC, 0x50, 0xE3, 0x0C, 0x74, 0x0E}; //marquinhos
